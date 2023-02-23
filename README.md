@@ -5,4 +5,5 @@
 - 💬 LinksSiteTemplate について質問する
 - 😄 代名詞: 彼ら/彼ら
 - ⚡豆知識: 私はラーメンが好きではありません!
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
 -->
