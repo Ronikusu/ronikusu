@@ -7,7 +7,7 @@
 - ⚡豆知識: 私はラーメンが好きではありません!
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,bots,ps,powershell,py,planetscale&perline=5)](https://skillicons.dev)
 <br>
-<a href=#><img src="[contributions.svg ](https://raw.githubusercontent.com/Ronikusu/insolitum/main/contributions.svg)"></a>
+<a href=#><img src="https://raw.githubusercontent.com/Ronikusu/main/contributions.svg"></a>
 <p align="center"> 
   訪問者数<br>
   <img src="https://profile-counter.glitch.me/ronikusu/count.svg" />
