@@ -12,4 +12,5 @@
   訪問者数<br>
   <img src="https://profile-counter.glitch.me/ronikusu/count.svg" />
 </p>
+<br>
 <br> I am learning english! sorry if i say or type something wrong!
