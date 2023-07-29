@@ -1,7 +1,7 @@
 ### Hello!👋
 
 - 🔭 I'm currently working on... Hmmm... nothing!
-- 🌴 We are open on weekends!
+- 🌴 i am open on weekends!
 - Ask about 💬 LinksSiteTemplate
 - 😄 Pronouns: they/they
 - ⚡Facts: I don't like ramen!
