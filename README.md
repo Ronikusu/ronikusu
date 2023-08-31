@@ -2,8 +2,7 @@
 
 - 🔭 I'm currently working on... Hmmm... nothing!
 - 🌴 i am open on weekends!
-- Ask about 💬 LinksSiteTemplate
-- 😄 Pronouns: they/they
+- 🤔 Pronouns: they/them
 - ⚡Facts: I don't like ramen!
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,bots,ps,powershell,py,planetscale&perline=5)](https://skillicons.dev)
 <br>
